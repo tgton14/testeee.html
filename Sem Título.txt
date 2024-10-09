@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+
+<html lang=“pt-br”>
+
+<head>
+
+<meta charset=“UTF-8”>
+
+<title> Titulo Da Página </title>
+
+</head>
+
+<body>
+
+<p> Obra Social Dom Bosco </p>
+
+<p> Rua Alvaro de Mendonça, 234 </p>
+
+<p> Itaquera | Sao Paulo-SP </P>
+
+</body>
+
+</html>
